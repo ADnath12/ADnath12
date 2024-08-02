@@ -1,6 +1,38 @@
 ![image](https://github.com/user-attachments/assets/b650345e-0248-474e-ae6f-f0869bf022fd)
-## 🚀 About Me
-I am a Data Analyst with a passion for turning data into actionable insights. 
+
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fbiometric-card-market-analysis-outlook-business-growth-gaurav-sharma&psig=AOvVaw1G-ZlRqsjDNAVC4NC1b3OL&ust=1722688710097000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDEhtWp1ocDFQAAAAAdAAAAABAJ" 
+</p>
+<h1 align="center">Hi 👋, I’m Akash Debnath</h1>
+  ## 🚀 About Me
+- 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
+
+- 🌱 I’m currently learning Data Analysis
+- 📫 How to reach me: debnathakash203@gmail.com
+
+<h1 align="center">  
+Connect with me:
+<div id="badges">
+  <a href="https://github.com/souravdann">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</h1>
+
+
+
+
+<br>
+ 
 
 ## 🛠 Skills
 
@@ -13,13 +45,7 @@ I am a Data Analyst with a passion for turning data into actionable insights.
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) *VS Code*
 - ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png) *Jupyter Notebook*
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/sourav-dan-90117324a/)
-- [Email](souravdan2023@gmail.com)
 
-## 🌐 Find me around the web
-- [WhatsApp](http://wa.me/+916296336002)
-- [GitHub](https://github.com/souravdann)
 
 ---
 
