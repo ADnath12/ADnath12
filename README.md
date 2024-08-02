@@ -27,10 +27,6 @@ Connect with me:
   </a>
 </div>
 </h1>
-
-
-
-
 <br>
  
 <p align="center">
