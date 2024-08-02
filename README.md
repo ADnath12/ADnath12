@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.envisionlearning.ca%2Fdata-analyst-course-and-certification-canada%2F&psig=AOvVaw1G-ZlRqsjDNAVC4NC1b3OL&ust=1722688710097000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDEhtWp1ocDFQAAAAAdAAAAABAZ" 
+  <img src="https://media.licdn.com/dms/image/D4D12AQEMPxc9PgKDoA/article-cover_image-shrink_600_2000/0/1687870267070?e=2147483647&v=beta&t=3RTfzgnIarrZUX5Pr33MA6W4AaF8RYzRzfourVJr4X4" 
 </p>
 <h1 align="center">Hi 👋, I’m Akash Debnath 😃 😃</h1>
 
