@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://ibossadv.com/wp-content/uploads/2016/08/I-BOSS-ADVERTISING-BOSS-LIFE-ADVERTISING-MARKETING-INTERNET-ADVERTISING-INTERNET-MARKETING-6-e1470071561863.jpg" 
+  <img src="https://researchamericainc.com/_img/strategic-consulting-image-header-v2.jpg" 
 </p>
 <h1 align="center">Hi 👋, I’m Akash Debnath 😃 😃</h1>
 
