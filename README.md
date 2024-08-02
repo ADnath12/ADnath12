@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fbiometric-card-market-analysis-outlook-business-growth-gaurav-sharma&psig=AOvVaw1G-ZlRqsjDNAVC4NC1b3OL&ust=1722688710097000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDEhtWp1ocDFQAAAAAdAAAAABAJ" 
 </p>
-<h1 align="center">Hi 👋, I’m Akash Debnath</h1>
+<h1 align="center">Hi 👋, I’m Akash Debnath 😃 😃</h1>
 
 - 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
 
