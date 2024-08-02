@@ -33,7 +33,10 @@ Connect with me:
 
 <br>
  
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQEMPxc9PgKDoA/article-cover_image-shrink_600_2000/0/1687870267070?e=2147483647&v=beta&t=3RTfzgnIarrZUX5Pr33MA6W4AaF8RYzRzfourVJr4X4" 
+</p>
+  
 ## 🛠 Skills
 
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) *MySQL*
