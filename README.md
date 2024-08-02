@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, I’m Akash Debnath 😃 😃</h1>
 
-- 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
+- 👀I'm a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Excel, Python. As a dedicated Data Analyst with a keen eye for detail, I excel at transforming complex datasets into clear, actionable insights. My expertise lies in statistical analysis, data modeling, and data visualization, allowing me to drive informed decision-making and uncover meaningful patterns in data.
 
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me: debnathakash203@gmail.com
